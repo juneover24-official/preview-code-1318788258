@@ -1,7 +1,7 @@
 {
   "qq_number": "1318788258",
   "group_number": "1054628014",
-  "updated_at": "2026-11-08T10:38:18+00:00",
+  "updated_at": "2026-11-08T10:53:40+00:00",
   "skins": [
     {
       "name": "漉の藏春可爱脆",
@@ -16,6 +16,13 @@
       "thumb": "漉_藏春闷脆.bdi_py_26_light_thumb.png",
       "full": "漉_藏春闷脆.bdi_py_26_light_thumb.png",
       "file_id": "41270873"
+    },
+    {
+      "name": "漉の藏春闷",
+      "file": "漉_藏春闷.bdi",
+      "thumb": "漉_藏春闷.bdi_py_26_light_thumb.png",
+      "full": "漉_藏春闷.bdi_py_26_light_thumb.png",
+      "file_id": "41240654"
     }
   ]
 }
